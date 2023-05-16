@@ -21,3 +21,4 @@ yarn-error.log*
 
 # algoria api key 
 # docusaurus.config.js
+.env
