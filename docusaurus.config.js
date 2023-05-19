@@ -65,7 +65,8 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       algolia: {
-        appId: process.env.APPID,
+        // appID 는 그냥 추가함 노출해도 된다함
+        appId: "79MSRGSHW3",
 
         apiKey: process.env.APIKEY,
 
